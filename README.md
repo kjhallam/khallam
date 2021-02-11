@@ -1,5 +1,7 @@
-Hi 👋, I'm Kendra Hallam and from Olathe, KS
-Full Stack Web Developer
+## Hi 👋, I'm Kendra Hallam and from Olathe, KS
+
+Full Stack Web Developer 
+
 🌱 I’m currently learning React
 
 💻 All of my projects are available at https://kjhallam.github.io/
