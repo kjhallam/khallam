@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kendra!</h1>
-<h3 align="center">I'm an enthusiastic full stack developer living in the suburbs of Kansas City.</h3>
+<h3 align="center">I'm an enthusiastic full stack developer living in the Kansas City Metro area.</h3>
 
 - 📫 How to reach me **kjhallam321@gmail.com**
 
